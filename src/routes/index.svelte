@@ -35,14 +35,14 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>Simple app</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1> Buen Trabajo</h1>
 
 <figure>
 	<img alt="Success Kid" src="successkid.jpg" />
-	<figcaption>Have fun with Sapper!</figcaption>
+	<figcaption>vamos a ello!</figcaption>
 </figure>
 
 <p>
